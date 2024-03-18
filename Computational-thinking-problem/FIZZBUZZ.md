@@ -20,7 +20,8 @@ That's right . Now write me a Python program for the same
 GEMINI
 Here's a Python program for Fizzbuzz:
 
-```def fizzbuzz(n):
+````
+def fizzbuzz(n):
   """
   This function plays Fizzbuzz up to a given number (n).
   """
@@ -35,7 +36,8 @@ Here's a Python program for Fizzbuzz:
       print(i)
 
 # Example usage: Play Fizzbuzz up to 100
-fizzbuzz(100)```
+fizzbuzz(100)
+````
 
 
 This program defines a function called fizzbuzz that takes an integer n as input. The function then iterates through numbers from 1 to n using a loop. Inside the loop, it checks for divisibility by 3 and 5 using the modulo operator (%).

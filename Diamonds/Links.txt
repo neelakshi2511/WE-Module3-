@@ -1,2 +1,2 @@
-colab - 
+colab -  https://colab.research.google.com/drive/1o_53k-U2-V94yW0bvIj3YC2qJ2Nrt2TZ?usp=sharing
 transcript - https://www.notion.so/Diamond-Card-bidding-game-942d53193ab045a1844ad0bf1c7910f1?pvs=4
